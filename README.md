@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction باستخدام Machine Learning
+# ❤️ Heart Disease Prediction
 
 ## 📌 Overview
 
